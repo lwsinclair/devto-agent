@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/heetvekariya-devto-agent-badge.png)](https://mseep.ai/app/heetvekariya-devto-agent)
+
 # DevTo Agent
 
 A comprehensive multi-agent system for interacting with Dev.to (DevTo) platform, built using Google ADK (Agent Development Kit) and Model Context Protocol (MCP). This project enables automated content creation, article management, and user profile interactions with DevTo through both Agent-to-Agent (A2A) communication and MCP server implementations.
